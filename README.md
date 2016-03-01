@@ -20,7 +20,7 @@ Uma box criada para facilitar o desenvolvimento de aplicações ruby on rails.
 </p>
 
 <p>
-  Depois utilize o comando 
+  Depois utilize o comando <br>
   <code>
     vagrant ssh
   </code>
