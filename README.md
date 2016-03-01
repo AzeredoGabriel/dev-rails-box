@@ -12,6 +12,14 @@ Uma box criada para facilitar o desenvolvimento de aplicações ruby on rails.
 
 <h6> Vagrant </h6>
 
+
+<p>
+  Especifique qual box deseja <br>
+  <code>
+    vagrant init azeredogab/gab-rails-box
+  </code>
+</p>
+
 <p>
   Inicie sua maquina virtual com o comando <br>
   <code>
