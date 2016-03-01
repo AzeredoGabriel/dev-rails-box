@@ -1,7 +1,7 @@
 # dev-rails-box
 Uma box criada para facilitar o desenvolvimento de aplicações ruby on rails. 
 
-<h4>Instalado:<h4>
+<h4>Instalado:</h4>
   - Git 
   - rbenv (Gerenciador de versões do Ruby) (Versão instalada é a <b>2.2.4</b>)
   - postgresql
