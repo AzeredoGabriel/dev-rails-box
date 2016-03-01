@@ -42,7 +42,7 @@ Essa box está utilizando a versão 2.2.4 do ruby.
   psql - U postgres -h localhost -W -d postgres
 </code>
 
-<h6>Descrição do comando: <h6>
+<h6>Descrição do comando: </h6>
 - psql  |- Invoca o postgresql
 - -U    |- User postgres
 - -h    |- Seu host, no nosso caso é localhost
