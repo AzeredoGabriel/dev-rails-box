@@ -70,8 +70,10 @@ Essa box está utilizando a versão 2.2.4 do ruby.
 
 - Inicie com o comando <br>
 <code>
-  psql - U postgres -h localhost -W -d postgres
+  psql -U postgres -h localhost -W -d postgres
 </code>
+
+Pass: <b>postgres</b>
 
 <h6>Descrição do comando: </h6>
 
